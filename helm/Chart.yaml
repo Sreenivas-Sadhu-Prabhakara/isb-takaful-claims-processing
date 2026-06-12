@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-takaful-claims-processing
+description: "BIAN Service Domain: Takaful Claims Processing (Process pattern, Takaful and Shared Operations)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Takaful and Shared Operations"
+  isb/business-domain: "Takaful"
+  isb/asset-type: "Takaful Claim"
+  isb/control-record: "Takaful Claim Procedure"
